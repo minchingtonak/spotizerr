@@ -1,0 +1,14 @@
+/**
+ * Main Styles Import
+ *
+ * Central import file for all application styles.
+ * This file imports all other style modules and provides
+ * the main entry point for styling.
+ */
+
+@import './globals.css';
+
+/* TODO: Import component-specific styles when created */
+/* @import './components.css'; */
+/* @import './pages.css'; */
+/* @import './utilities.css'; */
